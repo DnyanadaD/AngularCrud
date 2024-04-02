@@ -23,6 +23,12 @@
       "name": "BANANA",
       "price": 90,
       "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Mango",
+      "price": 90,
+      "quantity": 5
     }
   ]
 }
